@@ -1,5 +1,5 @@
 # Babylon.js_tutorials_playground
-Babylon, Oimo playground
+Babylon.js, Oimo.js playground
 
 
 1. Toad_game
